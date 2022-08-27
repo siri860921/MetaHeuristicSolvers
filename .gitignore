@@ -36,7 +36,6 @@ Latest commit 491040e on 26 Jan
 *.user
 *.userosscache
 *.sln.docstates
-COPBank/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
