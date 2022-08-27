@@ -1,0 +1,41 @@
+Title: Benchmark Problem
+Type: Minimization
+Dimension: 20
+LowerBoundsUpperBounds: Enumerate
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+-1.28 1.28
+NumberOfOptimalSolution: 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+Random randomizer = new Random();
+for(int i = 1; i <= 20; i++)
+    objective += i * Math.Pow(x[i-1], 4);
+
+objective += randomizer.NextDouble();
+GradientFunction: 
+

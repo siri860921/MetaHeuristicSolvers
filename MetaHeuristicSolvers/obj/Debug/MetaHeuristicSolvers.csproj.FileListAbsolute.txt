@@ -1,0 +1,16 @@
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\bin\Debug\MetaHeuristicSolvers.exe.config
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\bin\Debug\MetaHeuristicSolvers.exe
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\bin\Debug\MetaHeuristicSolvers.pdb
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\bin\Debug\COPBenchmark.dll
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\bin\Debug\TeeChart.dll
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\bin\Debug\COPBenchmark.xml
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\bin\Debug\TeeChart.xml
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.csproj.AssemblyReference.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.csproj.SuggestedBindingRedirects.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.MainForm.resources
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.Properties.Resources.resources
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.csproj.GenerateResource.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.csproj.CoreCompileInputs.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.csproj.CopyComplete
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.exe
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\MetaHeuristicSolvers\obj\Debug\MetaHeuristicSolvers.pdb

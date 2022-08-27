@@ -1,0 +1,31 @@
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\R09522638林昱廷FinalProject_SSA.exe.config
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\R09522638林昱廷FinalProject_SSA.exe
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\R09522638林昱廷FinalProject_SSA.pdb
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\COPBenchmark.dll
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\TeeChart.dll
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\COPBenchmark.xml
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\TeeChart.xml
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csprojAssemblyReference.cache
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.MainForm.resources
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.Properties.Resources.resources
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.GenerateResource.cache
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.CoreCompileInputs.cache
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.CopyComplete
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.exe
+C:\Users\andy921\Desktop\Andy's File\Code\C#\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.pdb
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\R09522638林昱廷FinalProject_SSA.exe.config
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\R09522638林昱廷FinalProject_SSA.exe
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\R09522638林昱廷FinalProject_SSA.pdb
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\COPBenchmark.dll
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\TeeChart.dll
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\COPBenchmark.xml
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\bin\Debug\TeeChart.xml
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.AssemblyReference.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.MainForm.resources
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.Properties.Resources.resources
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.GenerateResource.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.CoreCompileInputs.cache
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.csproj.CopyComplete
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.exe
+C:\Users\andy921\Desktop\Andy's File\Programming\C#\WinForm App\R09522638林昱廷FinalProject_SSA_solution\R09522638林昱廷FinalProject_SSA\obj\Debug\R09522638林昱廷FinalProject_SSA.pdb
